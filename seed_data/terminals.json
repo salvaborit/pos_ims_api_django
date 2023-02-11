@@ -1,0 +1,802 @@
+[
+  {
+    "serial_number": "7b8890e8-4545-4419-bea7-07d1f74d242f",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "35.37.129.83/21",
+    "acquirer": 1,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "5853bfeb-67de-4f22-8e76-6ed0379e6fc5",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "22.235.52.41/14",
+    "acquirer": 4,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "3a4daa0f-b08e-488f-9ca2-70b3a7270a49",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "101.71.227.141/29",
+    "acquirer": 3,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "80ba71ee-b351-4518-8698-81d9aa0f7511",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "7.49.151.17/23",
+    "acquirer": 4,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "fbbae8e4-9685-42ba-aecd-3ad1fa9f8eb6",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "156.184.226.218/13",
+    "acquirer": 1,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "c0989bb8-0bfc-4621-9cbe-fbef37874476",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "84.11.68.113/17",
+    "acquirer": 2,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "633d026d-ec74-4bff-9970-952e680e16a0",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "167.243.79.128/24",
+    "acquirer": 4,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "3aa132e5-abfc-4247-9769-485ca5290a27",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "23.194.129.248/8",
+    "acquirer": 4,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "24367915-3507-4eb9-8872-a5bfe13442b0",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "40.189.213.105/7",
+    "acquirer": 4,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "3fe29356-1053-4fa1-bf45-93bc1d3bf815",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "210.43.248.163/19",
+    "acquirer": 2,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "a13e6cc0-f1a9-41d8-aaad-04b7ab9479a2",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "219.50.163.142/12",
+    "acquirer": 3,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "e0e4e72b-8e1a-4a53-9e2d-02bb51184484",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "144.253.236.251/8",
+    "acquirer": 4,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "7fec5537-2996-4d18-917b-915fb6bd1c39",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "98.151.101.250/5",
+    "acquirer": 3,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "bc704062-7b79-4dc3-9aee-75affadb36a4",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "38.145.207.156/22",
+    "acquirer": 4,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "022afee8-d121-4363-9669-14281e922a1d",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "147.87.41.15/7",
+    "acquirer": 1,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "a8bae81e-e98f-4f2d-a707-f3b503023609",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "240.106.125.52/12",
+    "acquirer": 3,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "b2d5eb7f-aff4-46cb-bc27-3a597ad07b89",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "188.209.4.3/11",
+    "acquirer": 1,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "71c8bc05-588d-4fbd-8a7c-db71acb62158",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "58.217.26.44/10",
+    "acquirer": 1,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "67c9d1a2-4602-4107-a989-caf6721887d0",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "183.105.79.159/6",
+    "acquirer": 1,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "934a8ece-b896-46ba-a225-b93388c374b6",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "54.117.214.62/31",
+    "acquirer": 4,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "83bea8cf-cf6d-48de-8cb2-95148594195c",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "76.142.4.247/24",
+    "acquirer": 2,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "0ec7b50c-b342-4b20-a10e-db59b1696b30",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "17.198.170.129/14",
+    "acquirer": 4,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "ff784e18-b1f0-457a-9bd7-86e045c19883",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "0.197.139.105/26",
+    "acquirer": 3,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "0d734d92-3d4e-4b14-b21e-14c086c5f42b",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "165.176.34.179/22",
+    "acquirer": 1,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "e1c59619-3372-4975-b04b-e5993a2e9d46",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "36.22.134.75/18",
+    "acquirer": 4,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "39e01699-c42a-426f-a89e-60c3fbd244fc",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "121.104.141.89/27",
+    "acquirer": 1,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "6e446416-872f-4972-9c73-126b6f2353a2",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "117.141.54.240/23",
+    "acquirer": 1,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "60f7e096-cc81-47db-9b09-ef83f01bdfb6",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "121.58.74.117/10",
+    "acquirer": 1,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "b2676170-463b-40c5-bd9f-292274f254b8",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "86.225.36.164/12",
+    "acquirer": 3,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "81eb1ffd-7bcd-4001-b2ca-3bea0472e6c3",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "105.164.156.4/26",
+    "acquirer": 3,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "83d8ea67-e84c-40b7-a03e-b6b7ad770df9",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "242.46.58.54/12",
+    "acquirer": 3,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "36d42aea-5410-47f6-a6ca-b3706e650cea",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "168.8.237.165/4",
+    "acquirer": 3,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "d02c548d-ac16-4100-9302-48556b3a6a7b",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "128.214.254.222/29",
+    "acquirer": 3,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "9bd6e643-9d7c-4c77-8a36-0d89e02ff8e8",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "112.197.140.102/10",
+    "acquirer": 2,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "d465050b-eb10-403c-aafd-7e0859b1dd83",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "207.138.29.86/14",
+    "acquirer": 3,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "be4157a0-2689-4bcd-88d4-0363f4811d64",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "10.18.40.159/22",
+    "acquirer": 4,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "1ba76248-dc85-40fa-864e-7010d959a611",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "19.107.74.217/4",
+    "acquirer": 2,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "bcdd50f9-779b-4a77-8621-efd9c38ffbec",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "227.115.109.151/27",
+    "acquirer": 3,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "f9de9871-6c5e-41b9-82a2-d6d1829aa08c",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "221.251.177.17/27",
+    "acquirer": 3,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "16e65c36-6821-4ba3-b0d0-b5e60aa883ec",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "23.89.89.111/13",
+    "acquirer": 3,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "cfa15e49-a0cf-4e91-aeeb-73c124c13093",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "146.213.221.35/16",
+    "acquirer": 1,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "dddf747f-faba-4bce-a7cc-23428d10d2e4",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "173.154.188.183/2",
+    "acquirer": 2,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "86ba9251-8368-4a9d-9329-df4e629ec186",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "35.27.158.85/26",
+    "acquirer": 3,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "35634bd2-1f61-4ee8-9ccd-65c216e567bb",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "176.22.234.245/6",
+    "acquirer": 4,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "64bfc3a3-dc61-440b-8732-0502b6aa6134",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "247.248.51.237/9",
+    "acquirer": 2,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "a25843c9-ab2b-4e9d-ab8f-ee1f96f09ab6",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "102.24.230.255/7",
+    "acquirer": 4,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "57d042ca-71eb-4cc0-85a5-24fe17f5ad3b",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "36.118.98.157/3",
+    "acquirer": 1,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "5dac4a49-9e82-4237-8984-b70039dcaac4",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "2.131.94.242/12",
+    "acquirer": 3,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "8bf15a53-fbdf-4408-9eea-f30e7f1f9692",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "165.241.168.111/1",
+    "acquirer": 1,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "69e3412a-4624-45b6-a8c6-2d099d0177d7",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "60.173.42.33/9",
+    "acquirer": 1,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "6c5fccbd-0f71-4983-8d4c-5e8519a2bcfc",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "55.18.112.248/19",
+    "acquirer": 2,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "72744f9c-c09b-4aca-ac9c-e9319f8bdc99",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "59.133.8.202/17",
+    "acquirer": 2,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "7f72766d-460d-4494-bbae-8930d64b62b3",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "76.173.246.0/7",
+    "acquirer": 2,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "408a5788-7e04-4d6d-ae17-cb3b61962300",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "122.93.1.131/1",
+    "acquirer": 1,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "3cb73868-2a66-43db-8954-0b930ead7970",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "24.168.50.106/23",
+    "acquirer": 4,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "4ef072d8-c0dd-4b96-ae3d-956a281c0a86",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "141.114.125.76/16",
+    "acquirer": 2,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "48830379-0338-41b9-b21b-05769600f3fa",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "62.152.47.104/8",
+    "acquirer": 3,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "4b138970-dd9e-431c-a680-a0e0ea4ac244",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "40.69.195.199/25",
+    "acquirer": 2,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "0dfcf1c0-169d-4d1c-857a-79efebde9418",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "92.210.78.206/29",
+    "acquirer": 3,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "89da4310-059f-4453-b735-a2f1a6b663f2",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "235.146.155.151/12",
+    "acquirer": 4,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "7470227e-4605-4f20-9486-4f341c592179",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "126.234.38.57/1",
+    "acquirer": 4,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "1d57a8b6-fb45-455e-850f-e1d4f6110ee5",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "135.73.234.194/26",
+    "acquirer": 3,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "ba31cf19-da2d-4112-ab7b-832a85530878",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "91.7.179.182/11",
+    "acquirer": 4,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "e3094a2b-7f64-4121-8498-af127c133cc3",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "104.57.229.39/3",
+    "acquirer": 4,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "3b638312-f3a9-4627-a6a2-aea0aad02c0c",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "35.120.9.248/1",
+    "acquirer": 4,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "f7b41c90-33ed-4c49-b5fd-5f05b56c6f58",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "179.131.148.63/23",
+    "acquirer": 4,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "a154b181-fa6e-462c-8382-8e6283bff851",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "58.11.74.107/21",
+    "acquirer": 1,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "8876d5c4-73a5-45d2-89ce-0ebdda1dac97",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "118.205.54.66/27",
+    "acquirer": 1,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "8e92a4de-0028-4aee-811c-fe5636cf9dac",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "85.106.155.202/20",
+    "acquirer": 4,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "a5d2c191-bfd0-4d72-bc1a-bbc2bb91b096",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "12.252.11.60/7",
+    "acquirer": 3,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "b78b1712-a32d-492b-8a61-cc0a54c284f1",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "226.56.230.234/30",
+    "acquirer": 2,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "87726d3e-e9a8-4a49-9169-9366afcaf167",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "106.230.142.115/22",
+    "acquirer": 4,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "d51f230f-5875-4ba2-8168-ef79bb81623a",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "7.241.87.234/2",
+    "acquirer": 4,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "6ba6221e-d8ae-4ee6-94c9-6d4552f4a293",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "216.216.29.207/13",
+    "acquirer": 4,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "de7f4838-e6a9-4571-9470-5fa3acae01b7",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "10.103.209.136/22",
+    "acquirer": 3,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "5674b65d-cbe0-4912-85f2-8f2baf0666f4",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "30.117.96.147/4",
+    "acquirer": 3,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "72868af9-e75c-4edf-960f-5734d487f04e",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "77.34.135.124/6",
+    "acquirer": 3,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "9e29fff9-a428-4474-8b14-f5c0629a40b7",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "91.74.27.177/9",
+    "acquirer": 2,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "df7b0bb1-a273-41ae-afc6-1bae48d091ba",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "255.76.147.139/24",
+    "acquirer": 4,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "fcb92320-604d-4e06-8ff8-5e456bae29c2",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "215.13.82.101/26",
+    "acquirer": 1,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "fadb9b28-5265-4032-b828-3a5589952665",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "67.191.11.224/6",
+    "acquirer": 2,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "2e742c1b-5afa-453e-afb6-ff8e858a8a7a",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "39.235.168.145/29",
+    "acquirer": 2,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "65f4d306-afe9-42e9-b0ec-e23ef1604b10",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "40.105.165.155/6",
+    "acquirer": 1,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "0ff3e11c-2a5f-44b2-a9ec-9842bfdbb1db",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "86.126.54.13/25",
+    "acquirer": 2,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "90080b93-a76a-416b-9aa3-f5acb6627a64",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "19.30.54.168/30",
+    "acquirer": 1,
+    "model": 2,
+    "location": 1
+  },
+  {
+    "serial_number": "eb819075-644a-4d51-89af-c97ae46290c0",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "138.171.14.1/18",
+    "acquirer": 2,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "d07298c1-3af4-4e46-9ea8-53e743aa7243",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "64.176.144.5/29",
+    "acquirer": 1,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "97797163-e8df-469a-9d26-b727a3f64182",
+    "part_number": "IWL28C-11T2879B",
+    "id_pos2000": "201.73.136.85/1",
+    "acquirer": 4,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "47777cfe-209c-4708-a14b-3deaed482f5c",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "95.232.241.215/8",
+    "acquirer": 4,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "44409cad-d322-4f4f-aa18-2ce667e7bb9d",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "134.210.23.251/17",
+    "acquirer": 3,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "dabc8583-bae4-4ec5-bcdc-fdbc6297523c",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "38.117.87.129/21",
+    "acquirer": 4,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "d076fce8-2200-47ce-9d6b-6b05d466e825",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "43.98.52.130/6",
+    "acquirer": 2,
+    "model": 5,
+    "location": 1
+  },
+  {
+    "serial_number": "1d96a532-1dfe-4f5c-8ec5-40eff602e4a1",
+    "part_number": "IWL285-11T2800A",
+    "id_pos2000": "175.97.126.75/17",
+    "acquirer": 4,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "d2362223-0c5a-4435-b5cf-2ae15fb79ba4",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "213.89.26.32/12",
+    "acquirer": 1,
+    "model": 6,
+    "location": 1
+  },
+  {
+    "serial_number": "da250c04-674d-4a50-ade1-f65fdf34272d",
+    "part_number": "IWL285-11T3257B",
+    "id_pos2000": "72.63.89.214/17",
+    "acquirer": 2,
+    "model": 7,
+    "location": 1
+  },
+  {
+    "serial_number": "a9ae6bd9-051e-421d-9487-09e57ae026c7",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "104.207.150.172/29",
+    "acquirer": 1,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "a813a42a-6c4c-46a6-a21c-7273bbf63088",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "74.0.24.88/22",
+    "acquirer": 4,
+    "model": 3,
+    "location": 1
+  },
+  {
+    "serial_number": "cc7e183f-19fb-4be6-800f-1ae6f38170dd",
+    "part_number": "IWL28C-11T3717A",
+    "id_pos2000": "156.148.63.199/24",
+    "acquirer": 1,
+    "model": 1,
+    "location": 1
+  },
+  {
+    "serial_number": "dc2ff302-7164-4622-94a2-ab6c20108f17",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "161.28.52.148/24",
+    "acquirer": 1,
+    "model": 4,
+    "location": 1
+  },
+  {
+    "serial_number": "2520e9e9-5330-4697-847d-5e251b0fbf6c",
+    "part_number": "IWL285-11T2800B",
+    "id_pos2000": "165.72.228.239/27",
+    "acquirer": 4,
+    "model": 2,
+    "location": 1
+  }
+]
