@@ -15,16 +15,16 @@ POS IMS is a Django-based web application that allows users to manage their poin
 
 The following API endpoints are available:
 
-`/status/` - GET the API status
-`/terminals/` - GET a list of all terminals or CREATE a new terminal
-`/terminals/<int:pk>/` - GET, PUT, or DELETE a single terminal
-`/acquirers/` - GET a list of all acquirers or CREATE a new acquirer
-`/acquirers/<int:pk>/` - GET, PUT, or DELETE a single acquirer
-`/models/` - GET a list of all models or CREATE a new model
-`/models/<int:pk>/` - GET, PUT, or DELETE a single model
-`/locations/` - GET a list of all locations or CREATE a new location
-`/locations/<int:pk>/` - GET, PUT, or DELETE a single location
-`/statuses/` - GET a list of all statuses or CREATE a new status
-`/statuses/<int:pk>/` - GET, PUT, or DELETE a single status
-`/connectivities/` - GET a list of all connectivities or CREATE a new connectivity
-`/connectivities/<int:pk>/` - GET, PUT, or DELETE a single connectivity
+`/status/` - GET the API status <br>
+`/terminals/` - GET a list of all terminals or CREATE a new terminal <br>
+`/terminals/<int:pk>/` - GET, PUT, or DELETE a single terminal <br>
+`/acquirers/` - GET a list of all acquirers or CREATE a new acquirer <br>
+`/acquirers/<int:pk>/` - GET, PUT, or DELETE a single acquirer <br>
+`/models/` - GET a list of all models or CREATE a new model <br>
+`/models/<int:pk>/` - GET, PUT, or DELETE a single model <br>
+`/locations/` - GET a list of all locations or CREATE a new location <br>
+`/locations/<int:pk>/` - GET, PUT, or DELETE a single location <br>
+`/statuses/` - GET a list of all statuses or CREATE a new status <br>
+`/statuses/<int:pk>/` - GET, PUT, or DELETE a single status <br>
+`/connectivities/` - GET a list of all connectivities or CREATE a new connectivity <br>
+`/connectivities/<int:pk>/` - GET, PUT, or DELETE a single connectivity <br>
