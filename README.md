@@ -5,8 +5,8 @@ POS IMS is a Django-based web application that allows users to manage their poin
 ## Installation
 
 1. Clone the repository to your local machine.
-2. Create a virtual environment and activate it (pipenv was used).
-3. Install the dependencies using the command `pipenv install`.
+2. Create a virtual environment and activate it, with pipenv `pipenv --python 3.10` and `pipenv shell`.
+3. Install all dependencies, with pipenv `pipenv install`.
 4. Create a database (MySQL was used) and configure it in the settings.py file.
 5. Make and run the database migrations using the commands `python manage.py makemigrations` and `python manage.py migrate`.
 6. Start the development server using the command `python manage.py runserver`.
