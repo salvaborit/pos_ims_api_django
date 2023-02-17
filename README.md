@@ -16,15 +16,21 @@ POS IMS is a Django-based web application that allows users to manage their poin
 The following API endpoints are available:
 
 `/api/status/` - GET the API status <br>
+<br>
 `/api/terminals/` - GET a list of all terminals or CREATE a new terminal <br>
 `/api/terminals/<int:pk>/` - GET, PUT, or DELETE a single terminal <br>
+<br>
 `/api/acquirers/` - GET a list of all acquirers or CREATE a new acquirer <br>
 `/api/acquirers/<int:pk>/` - GET, PUT, or DELETE a single acquirer <br>
+<br>
 `/api/models/` - GET a list of all models or CREATE a new model <br>
 `/api/models/<int:pk>/` - GET, PUT, or DELETE a single model <br>
+<br>
 `/api/locations/` - GET a list of all locations or CREATE a new location <br>
 `/api/locations/<int:pk>/` - GET, PUT, or DELETE a single location <br>
+<br>
 `/api/statuses/` - GET a list of all statuses or CREATE a new status <br>
 `/api/statuses/<int:pk>/` - GET, PUT, or DELETE a single status <br>
+<br>
 `/api/connectivities/` - GET a list of all connectivities or CREATE a new connectivity <br>
 `/api/connectivities/<int:pk>/` - GET, PUT, or DELETE a single connectivity <br>
