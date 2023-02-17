@@ -9,6 +9,7 @@ django-rest-framework = "*"
 mysqlclient = "*"
 django-cors-headers = "*"
 django-filter = "*"
+django-environ = "*"
 
 [dev-packages]
 
