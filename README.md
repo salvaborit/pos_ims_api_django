@@ -1,4 +1,4 @@
-# POS IMS (Point-of-Sale Inventory Management System) Backend
+# POS IMS (Point-of-Sale Inventory Management System) Backend API
 
 POS IMS is a Django-based web application that allows users to manage their point-of-sale (POS) terminal inventory, along with their respective details. This is the backend codebase for the application, built with Django REST Framework.
 
@@ -11,7 +11,7 @@ POS IMS is a Django-based web application that allows users to manage their poin
 5. Make and run the database migrations using the commands `python manage.py makemigrations` and `python manage.py migrate`.
 6. Start the development server using the command `python manage.py runserver`.
 
-## API Endpoints
+## Endpoints
 
 The following API endpoints are available:
 
